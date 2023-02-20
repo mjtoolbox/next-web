@@ -50,20 +50,3 @@ After finishing all the customization, you can create a production build by runn
 ```
 npm run build
 ```
-
-<!-- reporting issue -->
-
-## Reporting Issues
-
-We use GitHub Issues as the official bug tracker for this Template. Please Search [existing issues](https://github.com/statichunt/hydrogen-nextjs/issues). It’s possible someone has already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/statichunt/hydrogen-nextjs/issues).
-
-<!-- licence -->
-
-## License
-
-Copyright (c) 2019 - Present, Designed & Developed by [statichunt](https://statichunt.com)
-
-**Code License:** Released under the [MIT](https://github.com/statichunt/hydrogen-nextjs/blob/main/LICENSE) license.
-
-**Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.
