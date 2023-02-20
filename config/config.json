@@ -1,8 +1,8 @@
 {
   "site": {
-    "title": "Hydrogen Nextjs",
+    "title": "Next Web",
     "base_url": "/",
-    "favicon": "/images/developer.png"
+    "favicon": "/images/selfie.jpg"
   },
 
   "settings": {
@@ -13,19 +13,19 @@
 
   "profile": {
     "name": "Michael Jo",
-    "image": "/images/developer.png",
-    "designation": "Front-end developer",
-    "bio": "A Full Stack Front-end Developer based in New York. Meticulous web developer with over 2 years of front end experience and passion for responsive and mobile-first website design."
+    "image": "/images/selfie.jpg",
+    "designation": "Solution Architect",
+    "bio": "Solution Architect"
   },
 
   "params": {
     "contact_form_action": "#",
     "tag_manager_id": "",
-    "copyright": "Copyright © 2022 a theme by [statichunt](https://statichunt.com)"
+    "copyright": "Copyright © 2023 by Mireu Tech"
   },
 
   "metadata": {
-    "meta_author": "Statichunt",
+    "meta_author": "mjtoolbox",
     "meta_image": "",
     "meta_description": ""
   },
