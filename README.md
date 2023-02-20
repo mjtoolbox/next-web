@@ -1,21 +1,6 @@
 <h1 align=center>Next Web Nextjs</h1>
-<p align=center>Personal blog website.</p>
-<h2>Forked from <a href='https://github.com/statichunt/hydrogen-nextjs'>Hydrogen Nextjs</a></h2>
-
-## Key Features
-
-- Google Page Speed score 100! (Desktop)
-- Supports Contact Form
-- Disqus Comment Support
-- Related Posts Suggestion
-- MDX Support with many built-in custom components
-- Semantic HTML Document Structure
-- Custom Logo Support
-- Includes All SCSS Files
-- Taxonomy Page Support
-- Images Optimized With Next/image
-
-<!-- installation -->
+<h2 align=center>Personal blog website.</h2>
+<p>Forked from <a href='https://github.com/statichunt/hydrogen-nextjs'>Hydrogen Nextjs</a></p>
 
 ## Installation
 
